@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name>PI1_СutOpening</Name>
+		<Assembly>PI1_СutOpening.dll</Assembly>
+		<AddInId>EB00F037-E039-4BB0-A137-7E7362B15AE7</AddInId>
+		<FullClassName>PI1_СutOpening.Main</FullClassName>
+		<VendorId>Daniil Tulkin</VendorId>
+		<VendorDescription>Daniil Tulkin</VendorDescription>
+	</AddIn>
+</RevitAddIns>
